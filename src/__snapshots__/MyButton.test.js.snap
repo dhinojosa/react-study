@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should be able to keep track of the dom with each subsequent call 1`] = `
+<button
+  onClick={[Function]}
+>
+  1
+</button>
+`;
+
+exports[`should be able to keep track of the dom with each subsequent call 2`] = `
+<button
+  onClick={[Function]}
+>
+  1
+</button>
+`;
+
+exports[`should be able to keep track of the dom with each subsequent call 3`] = `
+<button
+  onClick={[Function]}
+>
+  1
+</button>
+`;
